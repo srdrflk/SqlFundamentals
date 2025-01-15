@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\SqlFundamentals\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01FFF250-636F-4969-ABCE-A0B867376F02}|SqlFundamentals\\SqlFundamentals.sqlproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\SqlFundamentals\\SqlFundamentals\\InsertEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{01FFF250-636F-4969-ABCE-A0B867376F02}|SqlFundamentals\\SqlFundamentals.sqlproj|solutionrelative:SqlFundamentals\\InsertEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FFF250-636F-4969-ABCE-A0B867376F02}|SqlFundamentals\\SqlFundamentals.sqlproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\SqlFundamentals\\SqlFundamentals\\EmployeeInfo.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{01FFF250-636F-4969-ABCE-A0B867376F02}|SqlFundamentals\\SqlFundamentals.sqlproj|solutionrelative:SqlFundamentals\\EmployeeInfo.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FFF250-636F-4969-ABCE-A0B867376F02}|SqlFundamentals\\SqlFundamentals.sqlproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\SqlFundamentals\\SqlFundamentals\\Script.postdeploy.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{01FFF250-636F-4969-ABCE-A0B867376F02}|SqlFundamentals\\SqlFundamentals.sqlproj|solutionrelative:SqlFundamentals\\Script.postdeploy.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FFF250-636F-4969-ABCE-A0B867376F02}|SqlFundamentals\\SqlFundamentals.sqlproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\SqlFundamentals\\SqlFundamentals\\EmployeeInfo.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{01FFF250-636F-4969-ABCE-A0B867376F02}|SqlFundamentals\\SqlFundamentals.sqlproj|solutionrelative:SqlFundamentals\\EmployeeInfo.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FFF250-636F-4969-ABCE-A0B867376F02}|SqlFundamentals\\SqlFundamentals.sqlproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\SqlFundamentals\\SqlFundamentals\\InsertEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{01FFF250-636F-4969-ABCE-A0B867376F02}|SqlFundamentals\\SqlFundamentals.sqlproj|solutionrelative:SqlFundamentals\\InsertEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +59,40 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertEmployee.sql ",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\SqlFundamentals\\SqlFundamentals\\InsertEmployee.sql",
+              "RelativeDocumentMoniker": "SqlFundamentals\\InsertEmployee.sql",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\SqlFundamentals\\SqlFundamentals\\InsertEmployee.sql\r\n(localdb)\\ProjectModels.SqlFundamentals\r\n(EPAM\\Serdar_Filik)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-15T10:33:57.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeInfo.sql ",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\SqlFundamentals\\SqlFundamentals\\EmployeeInfo.sql",
+              "RelativeDocumentMoniker": "SqlFundamentals\\EmployeeInfo.sql",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\SqlFundamentals\\SqlFundamentals\\EmployeeInfo.sql\r\n(localdb)\\ProjectModels.SqlFundamentals\r\n(EPAM\\Serdar_Filik)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-15T10:05:58.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Script.postdeploy.sql",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\SqlFundamentals\\SqlFundamentals\\Script.postdeploy.sql",
+              "RelativeDocumentMoniker": "SqlFundamentals\\Script.postdeploy.sql",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\SqlFundamentals\\SqlFundamentals\\Script.postdeploy.sql",
+              "RelativeToolTip": "SqlFundamentals\\Script.postdeploy.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-15T10:05:46.743Z",
+              "EditorCaption": ""
             }
           ]
         }

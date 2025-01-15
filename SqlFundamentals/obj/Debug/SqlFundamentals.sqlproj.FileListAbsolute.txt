@@ -4,3 +4,7 @@ C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\SqlFundamentals\SqlFunda
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\SqlFundamentals\SqlFundamentals\obj\Debug\SqlFundamentals.sqlproj.AssemblyReference.cache
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\SqlFundamentals\SqlFundamentals\obj\Debug\SqlFundamentals.dll
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\SqlFundamentals\SqlFundamentals\obj\Debug\SqlFundamentals.pdb
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\SqlFundamentals\SqlFundamentals\obj\Debug\Model.xml
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\SqlFundamentals\SqlFundamentals\obj\Debug\refactor.xml
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\SqlFundamentals\SqlFundamentals\obj\Debug\postdeploy.sql
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\SqlFundamentals\SqlFundamentals\obj\Debug\predeploy.sql
