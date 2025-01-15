@@ -1,0 +1,6 @@
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\SqlFundamentals\SqlFundamentals\bin\Debug\SqlFundamentals.dacpac
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\SqlFundamentals\SqlFundamentals\bin\Debug\SqlFundamentals.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\SqlFundamentals\SqlFundamentals\bin\Debug\SqlFundamentals.pdb
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\SqlFundamentals\SqlFundamentals\obj\Debug\SqlFundamentals.sqlproj.AssemblyReference.cache
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\SqlFundamentals\SqlFundamentals\obj\Debug\SqlFundamentals.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\SqlFundamentals\SqlFundamentals\obj\Debug\SqlFundamentals.pdb
